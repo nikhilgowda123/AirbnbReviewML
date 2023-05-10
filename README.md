@@ -19,6 +19,6 @@ Our analysis shows that superhosts tend to have higher ratings. Also, the neighb
 
 The code for the project can be found in the src directory. To run the project, follow the below steps:
 
-Install the required packages by running pip install -r requirements.txt.
-Run python airbnbreviewml.py to preprocess tha data, train and evaluate the performance of the Lasso Regression and k-nearest neighbors models.
+- Install the required packages by running pip install -r requirements.txt.
+- Run python airbnbreviewml.py to preprocess tha data, train and evaluate the performance of the Lasso Regression and k-nearest neighbors models.
 Note: The listings.csv and reviews.csv directory contains the Airbnb dataset used in this project.
